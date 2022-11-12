@@ -1,0 +1,80 @@
+.globale{
+    width: 780px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.identite{
+    background: rgb(16, 16, 59);
+    width: auto;
+    height: 180px;
+}
+img{
+    width: auto;
+    height: 180px;
+}
+.info{
+    display: inline;
+    position: relative;
+    left: 308px;
+    bottom: 180px;
+    color: white;
+    font-size: 18px;
+}
+.email{
+    display: inline;
+    position: relative;
+    left: 230px;
+    bottom: 125px;
+    color: white;
+    font-size: 10px;
+}
+.tel{
+    display: inline;
+    position: relative;
+    left: 420px;
+    bottom: 148px;
+    color: white;
+    font-size: 10px;
+}
+.adresse{
+    display: inline;
+    position: relative;
+    left: 580px;
+    bottom: 170px;
+    color: white;
+    font-size: 10px;
+}
+#i{
+    width: 15px;
+    height: 20px;
+    display: inline;
+    position: relative;
+    left: 200px;
+    bottom: 194px;
+    color: rgb(255, 251, 251);
+    font-size: 10px;
+}
+#tel{
+    width: 15px;
+    height: 20px;
+    display: inline;
+    position: relative;
+    left: 390px;
+    bottom: 219px;
+    color: rgb(255, 251, 251);
+    font-size: 10px;
+}
+#lieux{
+    width: 15px;
+    height: 20px;
+    display: inline;
+    position: relative;
+    left: 550px;
+    bottom: 243px;
+    color: rgb(255, 251, 251);
+    font-size: 10px;
+}
+.sec-gauche{
+   font-style: italic;
+   font-size: 13px;
+}
